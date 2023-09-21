@@ -2358,5 +2358,5 @@ print(rmse)
 # 3. Review code OK Sep 15, 2023 10:22 pm AM
 # 4. Edit RMD file
 # 5. Produce RMD file
-# 6. Upload to Github
-# 7. Submit assigment
+# 6. Upload to Github WIP Sep 20, 2023 10:03 pm AM
+# 7. Submit assignment
