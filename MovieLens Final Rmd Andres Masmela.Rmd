@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 \textcolor{red}{This text will be in red in the PDF}.
 
 3. Review Section 5
-4. Upload in GitHub
+
 
 ## **Section 1: Executive Summary**
 
