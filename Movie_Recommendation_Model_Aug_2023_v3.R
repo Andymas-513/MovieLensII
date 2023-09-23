@@ -2359,4 +2359,4 @@ print(rmse)
 # 4. Edit RMD file OK Sep 22, 2023 10:28 pm AM
 # 5. Produce RMD file OK Sep 22, 2023 10:30 pm AM
 # 6. Upload to Github OK Sep 23, 2023 2:57 pm AM
-# 7. Submit assignment
+# 7. Submit assignment. READY. Sep 23, 2023 6:14 pm AM
