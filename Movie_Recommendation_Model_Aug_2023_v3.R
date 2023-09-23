@@ -2356,7 +2356,7 @@ print(rmse)
 # 1. Move last model to right sections OK Sep 10, 2023 4:09 pm AM
 # 2. Plot and save plots for the model z OK Sep 12, 2023 9:28 pm AM
 # 3. Review code OK Sep 15, 2023 10:22 pm AM
-# 4. Edit RMD file
-# 5. Produce RMD file
-# 6. Upload to Github WIP Sep 20, 2023 10:03 pm AM
+# 4. Edit RMD file OK Sep 22, 2023 10:28 pm AM
+# 5. Produce RMD file OK Sep 22, 2023 10:30 pm AM
+# 6. Upload to Github WIP Sep 22, 2023 10:30 pm AM
 # 7. Submit assignment
