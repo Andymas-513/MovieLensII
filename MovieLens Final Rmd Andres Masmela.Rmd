@@ -1,6 +1,6 @@
 ---
-title: "MovieLens Project - Andres Masmela"
-author: "Andres Masmela"
+title: "MovieLens Project - A. Masmela"
+author: "A. Masmela"
 date: "`r Sys.Date()`"
 output:
   pdf_document: default
